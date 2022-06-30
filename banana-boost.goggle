@@ -7766,6 +7766,8 @@ $downrank=3,site=tabnine.com
 /engineering^$boost=3,site=thumbtack.com
 /engineering^$boost=3,site=zillow.com
 /feed^$boost=3,site=stackshare.io
+/forum.$boost=2
+/forums.$boost=2
 /index.html^$boost=3,site=n-o-d-e.net
 /info/developer-blog^$boost=3,site=theguardian.com
 /insights^$boost=3,site=thoughtworks.com

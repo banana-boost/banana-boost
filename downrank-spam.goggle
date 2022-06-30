@@ -1,0 +1,11 @@
+! name: Punish Spam
+! description: Downranks results from sites with very low-quality or copycat content
+! public: true
+! author: Banana Boost
+! avatar: #ffff00
+
+$downrank=3,site=codota.com
+$downrank=3,site=demo2s.com
+$downrank=3,site=java2s.com
+$downrank=3,site=programcreek.com
+$downrank=3,site=tabnine.com

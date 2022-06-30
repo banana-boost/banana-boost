@@ -5,3 +5,4 @@
 ! avatar: #ffff00
 
 /discourse.$boost=2
+$boost=2,site=meta.discourse.org

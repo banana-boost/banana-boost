@@ -626,7 +626,6 @@ $boost=4,site=squareup.com
 $boost=4,site=teamten.com
 $boost=4,site=minimaxir.com
 $boost=4,site=sparkfun.com
-$boost=4,site=seattletimes.com
 $boost=4,site=int10h.org
 $boost=4,site=cpbotha.net
 $boost=4,site=mosaicscience.com
@@ -1583,7 +1582,6 @@ $boost=4,site=blogs.technet.com
 $boost=4,site=tynan.com
 $boost=4,site=antipolygraph.org
 $boost=4,site=dev.lemmy.ml
-$boost=4,site=spectator.co.uk
 $boost=4,site=cognitivemedium.com
 $boost=4,site=cyanogenmod.org
 $boost=4,site=codepen.io
@@ -2689,7 +2687,6 @@ $boost=3,site=danielmiessler.com
 $boost=3,site=blog.cloudant.com
 $boost=3,site=thechangelog.com
 $boost=3,site=mrdoob.com
-$boost=3,site=saveur.com
 $boost=3,site=moderntreasury.com
 $boost=3,site=blogs.suntimes.com
 $boost=3,site=ironicsans.com
@@ -4087,7 +4084,6 @@ $boost=3,site=engineering.skroutz.gr
 $boost=3,site=arcentry.com
 $boost=3,site=redmonk.com
 $boost=3,site=jesseduffield.com
-$boost=3,site=foodandwine.com
 $boost=3,site=vandenoever.info
 $boost=3,site=tubetime.us
 $boost=3,site=xenbits.xen.org
@@ -6206,7 +6202,6 @@ $boost=2,site=dutchnews.nl
 $boost=2,site=efavdb.com
 $boost=2,site=mabez.dev
 $boost=2,site=azul.com
-$boost=2,site=bonappetit.com
 $boost=2,site=microconf.com
 $boost=2,site=mxb.at
 $boost=2,site=rancher.com

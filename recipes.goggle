@@ -1,0 +1,10 @@
+! name: Banana Recipes
+! description: Boost quality recipe sites. Hide sites that waste your time.
+! public: true
+! author: Banana Boost
+! avatar: #ffff00
+
+$boost=3,site=alexandracooks.com
+
+! Requires account
+$downrank=3,site=cooking.nytimes.com

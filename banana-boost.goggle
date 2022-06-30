@@ -400,7 +400,6 @@ $boost=2,site=bnl.gov
 $boost=2,site=boeing.com
 $boost=2,site=bogleheads.org
 $boost=2,site=bombthrower.com
-$boost=2,site=bonappetit.com
 $boost=2,site=bookforum.com
 $boost=2,site=boristhebrave.com
 $boost=2,site=bostinno.com
@@ -2213,6 +2212,7 @@ $boost=3,site=alanstorm.com
 $boost=3,site=alarmingdevelopment.org
 $boost=3,site=alexa.com
 $boost=3,site=alexander.kirk.at
+$boost=3,site=alexandracooks.com
 $boost=3,site=alexberenson.substack.com
 $boost=3,site=alexedwards.net
 $boost=3,site=alexkrupp.typepad.com
@@ -3486,7 +3486,6 @@ $boost=3,site=fluentcpp.com
 $boost=3,site=flyertalk.com
 $boost=3,site=fntlnz.wtf
 $boost=3,site=fontsinuse.com
-$boost=3,site=foodandwine.com
 $boost=3,site=fool.com
 $boost=3,site=foonathan.net
 $boost=3,site=foreignpolicy.com
@@ -4777,7 +4776,6 @@ $boost=3,site=sarunw.com
 $boost=3,site=satisfice.com
 $boost=3,site=saturdayeveningpost.com
 $boost=3,site=saurik.com
-$boost=3,site=saveur.com
 $boost=3,site=sbcl.org
 $boost=3,site=sbnation.com
 $boost=3,site=scaleway.com
@@ -7036,7 +7034,6 @@ $boost=4,site=scotthelme.co.uk
 $boost=4,site=scripting.com
 $boost=4,site=sealedabstract.com
 $boost=4,site=seatgeek.com
-$boost=4,site=seattletimes.com
 $boost=4,site=sebastianmarshall.com
 $boost=4,site=sec.gov
 $boost=4,site=seclists.org
@@ -7109,7 +7106,6 @@ $boost=4,site=spacex.com
 $boost=4,site=sparkfun.com
 $boost=4,site=sparktoro.com
 $boost=4,site=speakerdeck.com
-$boost=4,site=spectator.co.uk
 $boost=4,site=spencerfry.com
 $boost=4,site=spinellis.gr
 $boost=4,site=spinics.net
@@ -7619,6 +7615,7 @@ $discard,site=xsprogram.com
 $discard,site=younggeeks.in
 $discard,site=zsharp.org
 $downrank=3,site=codota.com
+$downrank=3,site=cooking.nytimes.com
 $downrank=3,site=demo2s.com
 $downrank=3,site=java2s.com
 $downrank=3,site=programcreek.com

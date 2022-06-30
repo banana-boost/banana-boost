@@ -1,0 +1,7 @@
+! name: Boost Forums
+! description: Boost forums and discussion boards
+! public: true
+! author: Banana Boost
+! avatar: #ffff00
+
+/discourse.$boost=2

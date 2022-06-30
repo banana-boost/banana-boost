@@ -7743,6 +7743,7 @@ $downrank=3,site=tabnine.com
 /de/news/blog/index.jsp^$boost=3,site=adesso.de
 /dev^$boost=3,site=raizlabs.com
 /developers/blog^$boost=3,site=ctl.io
+/discourse.$boost=2
 /dwblog^$boost=3,site=developer.ibm.com
 /en-de/blog-archive/category/technology^$boost=3,site=n26.com
 /en-us/blogs^$boost=3,site=software.intel.com

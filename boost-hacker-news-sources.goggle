@@ -1,7 +1,6 @@
 $boost=4,site=blog.samaltman.com
 $boost=4,site=paulgraham.com
 $boost=4,site=blog.rust-lang.org
-$boost=4,site=blog.ycombinator.com
 $boost=4,site=ciechanow.ski
 $boost=4,site=danluu.com
 $boost=4,site=kalzumeus.com
@@ -1161,7 +1160,6 @@ $boost=4,site=blog.steveklabnik.com
 $boost=4,site=jgc.org
 $boost=4,site=maraoz.com
 $boost=4,site=somethingsimilar.com
-$boost=4,site=macro.ycombinator.com
 $boost=4,site=damienkatz.net
 $boost=4,site=moserware.com
 $boost=4,site=elastic.co
@@ -2304,7 +2302,6 @@ $boost=3,site=gurjeet.singh.im
 $boost=3,site=blog.mailgun.net
 $boost=3,site=harry.me
 $boost=3,site=archpaper.com
-$boost=3,site=news.ycombinator.com
 $boost=3,site=durmonski.com
 $boost=3,site=blog.zorinaq.com
 $boost=3,site=blog.peepcode.com

@@ -4375,7 +4375,6 @@ $boost=3,site=news.northeastern.edu
 $boost=3,site=news.softpedia.com
 $boost=3,site=news.trust.org
 $boost=3,site=news.wsu.edu
-$boost=3,site=news.ycombinator.com
 $boost=3,site=newsroom.mastercard.com
 $boost=3,site=newsroom.unsw.edu.au
 $boost=3,site=nexedi.com
@@ -5802,7 +5801,6 @@ $boost=4,site=blog.wolfire.com
 $boost=4,site=blog.wolfram.com
 $boost=4,site=blog.x.company
 $boost=4,site=blog.xamarin.com
-$boost=4,site=blog.ycombinator.com
 $boost=4,site=blog.youtube
 $boost=4,site=blogmaverick.com
 $boost=4,site=blogs.bl.uk
@@ -6600,7 +6598,6 @@ $boost=4,site=m.signalvnoise.com
 $boost=4,site=ma.tt
 $boost=4,site=ma.ttias.be
 $boost=4,site=macleans.ca
-$boost=4,site=macro.ycombinator.com
 $boost=4,site=macrumors.com
 $boost=4,site=macworld.com
 $boost=4,site=macwright.com

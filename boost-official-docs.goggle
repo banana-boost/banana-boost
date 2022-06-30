@@ -1,5 +1,5 @@
 ! name: Boost Docs
-! description: Boost official documentation sites
+! description: Boost official documentation sites, repositories, & package registries
 ! public: true
 ! author: Banana Boost
 ! avatar: #ffff00
@@ -30,6 +30,7 @@ $boost=3,site=documentation.sas.com
 $boost=3,site=docwiki.embarcadero.com
 $boost=3,site=erlang.org
 $boost=3,site=fortran90.org
+$boost=3,site=github.com
 $boost=3,site=gnu.org
 $boost=3,site=go.dev
 $boost=3,site=groovy-lang.org

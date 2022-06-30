@@ -1,9 +1,3 @@
-! name: Hacker News / 1k short
-! description: Prioritizes domains popular with the Hacker News community, minus those that would rank among the top 1000 most-viewed websites.
-! author: Goggles 101
-! public: true
-! avatar: #ff6600
-
 $boost=4,site=blog.samaltman.com
 $boost=4,site=paulgraham.com
 $boost=4,site=blog.rust-lang.org
@@ -56,7 +50,6 @@ $boost=4,site=stratechery.com
 $boost=4,site=brave.com
 $boost=4,site=lwn.net
 $boost=4,site=stephendiehl.com
-$boost=4,site=raganwald.posterous.com
 $boost=4,site=bugs.chromium.org
 $boost=4,site=marco.org
 $boost=4,site=words.steveklabnik.com
@@ -520,7 +513,6 @@ $boost=4,site=phoenixframework.org
 $boost=4,site=avc.com
 $boost=4,site=jasmcole.com
 $boost=4,site=lemire.me
-$boost=4,site=ycombinator.posterous.com
 $boost=4,site=crystal-lang.org
 $boost=4,site=flightradar24.com
 $boost=4,site=lofibucket.com
@@ -1088,7 +1080,6 @@ $boost=4,site=texasmonthly.com
 $boost=4,site=mattmaroon.com
 $boost=4,site=gabrielgambetta.com
 $boost=4,site=tratt.net
-$boost=4,site=blog.posterous.com
 $boost=4,site=oxide.computer
 $boost=4,site=trackchanges.postlight.com
 $boost=4,site=codahale.com
@@ -1897,7 +1888,6 @@ $boost=4,site=corecursive.com
 $boost=4,site=wildml.com
 $boost=4,site=smallcultfollowing.com
 $boost=4,site=theartnewspaper.com
-$boost=4,site=cdixon.posterous.com
 $boost=4,site=readwriteweb.com
 $boost=4,site=planscope.io
 $boost=4,site=allthingsdistributed.com
@@ -2017,7 +2007,6 @@ $boost=3,site=literaryreview.co.uk
 $boost=3,site=explorabl.es
 $boost=3,site=blog.felipe.rs
 $boost=3,site=unherd.com
-$boost=3,site=garry.posterous.com
 $boost=3,site=worthdoingbadly.com
 $boost=3,site=rob.conery.io
 $boost=3,site=io9.com
@@ -2115,7 +2104,6 @@ $boost=3,site=philipwalton.com
 $boost=3,site=foxbusiness.com
 $boost=3,site=jrsinclair.com
 $boost=3,site=space.com
-$boost=3,site=sachin.posterous.com
 $boost=3,site=khn.org
 $boost=3,site=pigdog.org
 $boost=3,site=zackkanter.com
@@ -2944,7 +2932,6 @@ $boost=3,site=renato.athaydes.com
 $boost=3,site=john.ankarstrom.se
 $boost=3,site=deis.com
 $boost=3,site=blog.travis-ci.com
-$boost=3,site=akshat.posterous.com
 $boost=3,site=blog.danieljanus.pl
 $boost=3,site=lambdassociates.org
 $boost=3,site=paypal-engineering.com
@@ -3464,7 +3451,6 @@ $boost=3,site=dish.andrewsullivan.com
 $boost=3,site=likewise.am
 $boost=3,site=blog.idonethis.com
 $boost=3,site=blog.talosintelligence.com
-$boost=3,site=garrysub.posterous.com
 $boost=3,site=insinuator.net
 $boost=3,site=hypothes.is
 $boost=3,site=cdt.org
@@ -3575,7 +3561,6 @@ $boost=3,site=futilitycloset.com
 $boost=3,site=hayabusa2.jaxa.jp
 $boost=3,site=malisper.me
 $boost=3,site=blog.jwhitham.org
-$boost=3,site=bemmu.posterous.com
 $boost=3,site=gizmodo.com.au
 $boost=3,site=meyerweb.com
 $boost=3,site=novaspivack.com
@@ -4065,7 +4050,6 @@ $boost=3,site=cs.ucr.edu
 $boost=3,site=transportenvironment.org
 $boost=3,site=sciencenews.org
 $boost=3,site=blog.portswigger.net
-$boost=3,site=dshipper.posterous.com
 $boost=3,site=abopen.com
 $boost=3,site=realclearscience.com
 $boost=3,site=llnl.gov
@@ -4417,7 +4401,6 @@ $boost=2,site=listennotes.com
 $boost=2,site=techblog.livingsocial.com
 $boost=2,site=blogoscoped.com
 $boost=2,site=density.io
-$boost=2,site=dbasch.posterous.com
 $boost=2,site=martiancraft.com
 $boost=2,site=blog.meldium.com
 $boost=2,site=blog.codeclimate.com
@@ -5688,7 +5671,6 @@ $boost=2,site=blog.metamorphium.com
 $boost=2,site=dannyvankooten.com
 $boost=2,site=creativereview.co.uk
 $boost=2,site=blog.hasura.io
-$boost=2,site=dosync.posterous.com
 $boost=2,site=openreview.net
 $boost=2,site=blog.serverdensity.com
 $boost=2,site=manybutfinite.com
@@ -5847,7 +5829,6 @@ $boost=2,site=econlog.econlib.org
 $boost=2,site=bitsofco.de
 $boost=2,site=blog.gyrosco.pe
 $boost=2,site=blog.n01se.net
-$boost=2,site=iamwil.posterous.com
 $boost=2,site=minyanville.com
 $boost=2,site=jcjc-dev.com
 $boost=2,site=decryptmedia.com
@@ -6157,7 +6138,6 @@ $boost=2,site=blog.benjamin-encz.de
 $boost=2,site=blog.apollographql.com
 $boost=2,site=interaktiv.morgenpost.de
 $boost=2,site=neogaf.com
-$boost=2,site=jasongullickson.posterous.com
 $boost=2,site=lvguowei.me
 $boost=2,site=theapeiron.co.uk
 $boost=2,site=insideairbnb.com

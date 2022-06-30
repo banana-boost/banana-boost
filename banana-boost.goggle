@@ -577,7 +577,6 @@ $boost=2,site=david-smith.org
 $boost=2,site=davidhauser.com
 $boost=2,site=davidwong.fr
 $boost=2,site=davisr.me
-$boost=2,site=dbasch.posterous.com
 $boost=2,site=dcscience.net
 $boost=2,site=deadline.com
 $boost=2,site=death.andgravity.com
@@ -640,7 +639,6 @@ $boost=2,site=docs.python-guide.org
 $boost=2,site=dolthub.com
 $boost=2,site=dom.as
 $boost=2,site=doomworld.com
-$boost=2,site=dosync.posterous.com
 $boost=2,site=dotnetfoundation.org
 $boost=2,site=dougmccune.com
 $boost=2,site=dougseven.com
@@ -936,7 +934,6 @@ $boost=2,site=hussmanfunds.com
 $boost=2,site=huyng.com
 $boost=2,site=hypothesis.works
 $boost=2,site=i-kh.net
-$boost=2,site=iamwil.posterous.com
 $boost=2,site=ibtimes.co.uk
 $boost=2,site=ibtimes.sg
 $boost=2,site=icelandmonitor.mbl.is
@@ -1005,7 +1002,6 @@ $boost=2,site=jacobobryant.com
 $boost=2,site=jamesclear.com
 $boost=2,site=jamiequint.com
 $boost=2,site=jaredforsyth.com
-$boost=2,site=jasongullickson.posterous.com
 $boost=2,site=jasonlefkowitz.net
 $boost=2,site=jatan.space
 $boost=2,site=javacodegeeks.com
@@ -2212,7 +2208,6 @@ $boost=3,site=akr.am
 $boost=3,site=akrabat.com
 $boost=3,site=akrzemi1.wordpress.com
 $boost=3,site=akselmo.dev
-$boost=3,site=akshat.posterous.com
 $boost=3,site=alanstorm.com
 $boost=3,site=alarmingdevelopment.org
 $boost=3,site=alexa.com
@@ -2390,7 +2385,6 @@ $boost=3,site=begriffs.com
 $boost=3,site=behavioralscientist.org
 $boost=3,site=believermag.com
 $boost=3,site=bemmu.com
-$boost=3,site=bemmu.posterous.com
 $boost=3,site=ben.balter.com
 $boost=3,site=benchling.engineering
 $boost=3,site=benchmarksgame-team.pages.debian.net
@@ -3238,7 +3232,6 @@ $boost=3,site=drivy.engineering
 $boost=3,site=dropbox.tech
 $boost=3,site=ds9a.nl
 $boost=3,site=dsebastien.medium.com
-$boost=3,site=dshipper.posterous.com
 $boost=3,site=dtrace.org
 $boost=3,site=duo.com
 $boost=3,site=durmonski.com
@@ -3547,8 +3540,6 @@ $boost=3,site=gamesradar.com
 $boost=3,site=gapingvoid.com
 $boost=3,site=garbagecollected.org
 $boost=3,site=garrett.damore.org
-$boost=3,site=garry.posterous.com
-$boost=3,site=garrysub.posterous.com
 $boost=3,site=gasparevitta.com
 $boost=3,site=gatewaynode.com
 $boost=3,site=gavinr.com
@@ -4767,7 +4758,6 @@ $boost=3,site=ruthreichl.substack.com
 $boost=3,site=ryanbigg.com
 $boost=3,site=ryangjchandler.co.uk
 $boost=3,site=sacbee.com
-$boost=3,site=sachin.posterous.com
 $boost=3,site=sacrideo.us
 $boost=3,site=sadgrl.online
 $boost=3,site=sahandsaba.com
@@ -5762,7 +5752,6 @@ $boost=4,site=blog.plaid.com
 $boost=4,site=blog.plan99.net
 $boost=4,site=blog.ploeh.dk
 $boost=4,site=blog.plover.com
-$boost=4,site=blog.posterous.com
 $boost=4,site=blog.pragmaticengineer.com
 $boost=4,site=blog.priceonomics.com
 $boost=4,site=blog.printf.net
@@ -5900,7 +5889,6 @@ $boost=4,site=catonmat.net
 $boost=4,site=cb.vu
 $boost=4,site=ccc.de
 $boost=4,site=cdixon.org
-$boost=4,site=cdixon.posterous.com
 $boost=4,site=cdn.ca9.uscourts.gov
 $boost=4,site=cell.com
 $boost=4,site=cemerick.com
@@ -6953,7 +6941,6 @@ $boost=4,site=rachelbythebay.com
 $boost=4,site=radicle.xyz
 $boost=4,site=radio.garden
 $boost=4,site=raganwald.com
-$boost=4,site=raganwald.posterous.com
 $boost=4,site=rambo.codes
 $boost=4,site=rameznaam.com
 $boost=4,site=ramiro.org
@@ -7424,7 +7411,6 @@ $boost=4,site=yannesposito.com
 $boost=4,site=yarchive.net
 $boost=4,site=ybrikman.com
 $boost=4,site=ycombinator.com
-$boost=4,site=ycombinator.posterous.com
 $boost=4,site=yehudakatz.com
 $boost=4,site=yeokhengmeng.com
 $boost=4,site=yieldthought.com

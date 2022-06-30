@@ -2929,12 +2929,15 @@ $boost=3,site=cleantechnica.com
 $boost=3,site=clerk.house.gov
 $boost=3,site=client9.com
 $boost=3,site=cliffle.com
+$boost=3,site=cliki.net
 $boost=3,site=climatecentral.org
 $boost=3,site=climatechangenews.com
 $boost=3,site=climatetechvc.substack.com
 $boost=3,site=clockworkpi.com
+$boost=3,site=clojuredocs.org
 $boost=3,site=clojurescript.org
 $boost=3,site=cloud.blog.csc.fi
+$boost=3,site=cloud.google.com
 $boost=3,site=cloudberry.engineering
 $boost=3,site=cloudirregular.substack.com
 $boost=3,site=cloudkick.com
@@ -2955,6 +2958,7 @@ $boost=3,site=code.hootsuite.com
 $boost=3,site=code.joejag.com
 $boost=3,site=code.mixpanel.com
 $boost=3,site=code.oursky.com
+$boost=3,site=code.visualstudio.com
 $boost=3,site=codeahoy.com
 $boost=3,site=codeascraft.com
 $boost=3,site=codebeforethehorse.tumblr.com
@@ -3012,6 +3016,7 @@ $boost=3,site=coryzue.com
 $boost=3,site=cosmosmagazine.com
 $boost=3,site=countbayesie.com
 $boost=3,site=cpj.org
+$boost=3,site=cplusplus.com
 $boost=3,site=cpomagazine.com
 $boost=3,site=cppstories.com
 $boost=3,site=cprimozic.net
@@ -3089,6 +3094,7 @@ $boost=3,site=dariusz.wieckiewicz.org
 $boost=3,site=darkcoding.net
 $boost=3,site=darkreading.com
 $boost=3,site=darpa.mil
+$boost=3,site=dart.dev
 $boost=3,site=dartlang.org
 $boost=3,site=dashbit.co
 $boost=3,site=dashes.com
@@ -3156,6 +3162,9 @@ $boost=3,site=devblog.coolblue.nl
 $boost=3,site=devblog.kogan.com
 $boost=3,site=devblog.songkick.com
 $boost=3,site=devdactic.com
+$boost=3,site=developer.amazon.com
+$boost=3,site=developer.apple.com
+$boost=3,site=developer.mozilla.org
 $boost=3,site=developer.oculus.com
 $boost=3,site=developer.palm.com
 $boost=3,site=developers.500px.com
@@ -3202,10 +3211,24 @@ $boost=3,site=dmitryfrank.com
 $boost=3,site=dnalounge.com
 $boost=3,site=doc.cat-v.org
 $boost=3,site=doc.ic.ac.uk
+$boost=3,site=doc.rust-lang.org
 $boost=3,site=docracy.com
+$boost=3,site=docs.aws.amazon.com
+$boost=3,site=docs.digitalocean.com
 $boost=3,site=docs.fcc.gov
 $boost=3,site=docs.house.gov
+$boost=3,site=docs.julialang.org
 $boost=3,site=docs.keydb.dev
+$boost=3,site=docs.microsoft.com
+$boost=3,site=docs.nvidia.com
+$boost=3,site=docs.oracle.com
+$boost=3,site=docs.python.org
+$boost=3,site=docs.ruby-lang.org
+$boost=3,site=docs.scala-lang.org
+$boost=3,site=docs.soliditylang.org
+$boost=3,site=docs.swift.org
+$boost=3,site=documentation.sas.com
+$boost=3,site=docwiki.embarcadero.com
 $boost=3,site=dodgycoder.net
 $boost=3,site=doisinkidney.com
 $boost=3,site=dol.gov
@@ -3396,6 +3419,7 @@ $boost=3,site=erikbern.com
 $boost=3,site=erikmcclure.com
 $boost=3,site=erikrunyon.com
 $boost=3,site=eriwen.com
+$boost=3,site=erlang.org
 $boost=3,site=erniemiller.org
 $boost=3,site=erowid.org
 $boost=3,site=erthalion.info
@@ -3491,6 +3515,7 @@ $boost=3,site=foonathan.net
 $boost=3,site=foreignpolicy.com
 $boost=3,site=forestry.io
 $boost=3,site=forrestbrazeal.com
+$boost=3,site=fortran90.org
 $boost=3,site=fortressofdoors.com
 $boost=3,site=forum.nim-lang.org
 $boost=3,site=forum.sublimetext.com
@@ -3566,7 +3591,9 @@ $boost=3,site=glineq.blogspot.com
 $boost=3,site=globenewswire.com
 $boost=3,site=glyph.twistedmatrix.com
 $boost=3,site=gmo.com
+$boost=3,site=gnu.org
 $boost=3,site=gnunet.org
+$boost=3,site=go.dev
 $boost=3,site=gocardless.com
 $boost=3,site=gog.com
 $boost=3,site=goinggo.net
@@ -3599,6 +3626,7 @@ $boost=3,site=grist.org
 $boost=3,site=grognor.blogspot.com
 $boost=3,site=groovehq.com
 $boost=3,site=grooveshark.com
+$boost=3,site=groovy-lang.org
 $boost=3,site=grosser.it
 $boost=3,site=grpc.io
 $boost=3,site=grsecurity.net
@@ -3630,6 +3658,7 @@ $boost=3,site=harry.me
 $boost=3,site=harvardlawreview.org
 $boost=3,site=harvardmagazine.com
 $boost=3,site=hashcat.net
+$boost=3,site=haskell.org
 $boost=3,site=haskellforall.com
 $boost=3,site=haveibeenpwned.com
 $boost=3,site=haxe.org
@@ -3651,6 +3680,7 @@ $boost=3,site=herbsutter.com
 $boost=3,site=herman.bearblog.dev
 $boost=3,site=heterodoxacademy.org
 $boost=3,site=hetzner.de
+$boost=3,site=hexdocs.pm
 $boost=3,site=heydonworks.com
 $boost=3,site=hforsten.com
 $boost=3,site=highscalability.com
@@ -3953,6 +3983,7 @@ $boost=3,site=knowingless.com
 $boost=3,site=koaning.io
 $boost=3,site=komonews.com
 $boost=3,site=koreaherald.com
+$boost=3,site=kotlinlang.org
 $boost=3,site=kpcb.com
 $boost=3,site=krebsonsecurity.com
 $boost=3,site=krenger.ch
@@ -4107,6 +4138,7 @@ $boost=3,site=making.fiftythree.com
 $boost=3,site=making.pusher.com
 $boost=3,site=mako.cc
 $boost=3,site=malisper.me
+$boost=3,site=man7.org
 $boost=3,site=manid2.github.io
 $boost=3,site=manu.sporny.org
 $boost=3,site=maps.org
@@ -4116,6 +4148,7 @@ $boost=3,site=marcan.st
 $boost=3,site=marcus.io
 $boost=3,site=mareknarozniak.com
 $boost=3,site=marginalrevolution.com
+$boost=3,site=mariadb.com
 $boost=3,site=marijnhaverbeke.nl
 $boost=3,site=marinetraffic.com
 $boost=3,site=maritime-executive.com
@@ -4145,6 +4178,7 @@ $boost=3,site=mathbabe.org
 $boost=3,site=mathiasbynens.be
 $boost=3,site=mathpix.com
 $boost=3,site=mathwithbaddrawings.com
+$boost=3,site=mathworks.com
 $boost=3,site=matklad.github.io
 $boost=3,site=matpalm.com
 $boost=3,site=matt-rickard.com
@@ -4435,6 +4469,7 @@ $boost=3,site=nyxt.atlas.engineer
 $boost=3,site=nzz.ch
 $boost=3,site=obdev.at
 $boost=3,site=objc.io
+$boost=3,site=ocaml.org
 $boost=3,site=ochronus.online
 $boost=3,site=ocramius.github.io
 $boost=3,site=ocregister.com
@@ -4530,6 +4565,7 @@ $boost=3,site=perell.com
 $boost=3,site=perimeterx.com
 $boost=3,site=perl.com
 $boost=3,site=perl.plover.com
+$boost=3,site=perldoc.perl.org
 $boost=3,site=perspectives.mvdirona.com
 $boost=3,site=petcashpost.substack.com
 $boost=3,site=petecodes.io
@@ -4545,6 +4581,7 @@ $boost=3,site=philly.com
 $boost=3,site=philosophically.com
 $boost=3,site=philrobertson.substack.com
 $boost=3,site=phk.freebsd.dk
+$boost=3,site=php.net
 $boost=3,site=phpied.com
 $boost=3,site=phrohdoh.com
 $boost=3,site=physorg.com
@@ -4574,6 +4611,7 @@ $boost=3,site=popey.com
 $boost=3,site=popula.com
 $boost=3,site=portswigger.net
 $boost=3,site=positech.co.uk
+$boost=3,site=postgresql.org
 $boost=3,site=posthog.com
 $boost=3,site=postmarketos.org
 $boost=3,site=postmasculine.com
@@ -4637,6 +4675,7 @@ $boost=3,site=quariety.com
 $boost=3,site=quickbooks-engineering.intuit.com
 $boost=3,site=quuxplusone.github.io
 $boost=3,site=r-bloggers.com
+$boost=3,site=r-project.org
 $boost=3,site=r2d3.us
 $boost=3,site=rachelandrew.co.uk
 $boost=3,site=rachelbythebay.com
@@ -4912,6 +4951,7 @@ $boost=3,site=spideroak.com
 $boost=3,site=spin.atomicobject.com
 $boost=3,site=spottedsun.com
 $boost=3,site=spritzinc.com
+$boost=3,site=sqlite.org
 $boost=3,site=squeakland.org
 $boost=3,site=src.chromium.org
 $boost=3,site=ssaraf.com
@@ -5220,6 +5260,7 @@ $boost=3,site=two-wrongs.com
 $boost=3,site=txt.fyi
 $boost=3,site=txti.es
 $boost=3,site=tylertringas.com
+$boost=3,site=typescriptlang.org
 $boost=3,site=typicalprogrammer.com
 $boost=3,site=typography.com
 $boost=3,site=tyrrrz.me

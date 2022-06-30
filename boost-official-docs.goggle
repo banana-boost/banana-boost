@@ -1,0 +1,49 @@
+! name: Boost Docs
+! description: Boost official documentation sites
+! public: true
+! author: Banana Boost
+! avatar: #ffff00
+
+$boost=3,site=cliki.net
+$boost=3,site=clojuredocs.org
+$boost=3,site=cloud.google.com
+$boost=3,site=code.visualstudio.com
+$boost=3,site=cplusplus.com
+$boost=3,site=crystal-lang.org
+$boost=3,site=dart.dev
+$boost=3,site=developer.amazon.com
+$boost=3,site=developer.apple.com
+$boost=3,site=developer.mozilla.org
+$boost=3,site=doc.rust-lang.org
+$boost=3,site=docs.aws.amazon.com
+$boost=3,site=docs.digitalocean.com
+$boost=3,site=docs.julialang.org
+$boost=3,site=docs.microsoft.com
+$boost=3,site=docs.nvidia.com
+$boost=3,site=docs.oracle.com
+$boost=3,site=docs.python.org
+$boost=3,site=docs.ruby-lang.org
+$boost=3,site=docs.scala-lang.org
+$boost=3,site=docs.soliditylang.org
+$boost=3,site=docs.swift.org
+$boost=3,site=documentation.sas.com
+$boost=3,site=docwiki.embarcadero.com
+$boost=3,site=erlang.org
+$boost=3,site=fortran90.org
+$boost=3,site=gnu.org
+$boost=3,site=go.dev
+$boost=3,site=groovy-lang.org
+$boost=3,site=haskell.org
+$boost=3,site=hexdocs.pm
+$boost=3,site=kotlinlang.org
+$boost=3,site=lua.org
+$boost=3,site=man7.org
+$boost=3,site=mariadb.com
+$boost=3,site=mathworks.com
+$boost=3,site=ocaml.org
+$boost=3,site=perldoc.perl.org
+$boost=3,site=php.net
+$boost=3,site=postgresql.org
+$boost=3,site=r-project.org
+$boost=3,site=sqlite.org
+$boost=3,site=typescriptlang.org

@@ -4,6 +4,7 @@
 ! author: Banana Boost
 ! avatar: #ffff00
 
+$downrank=3,site=adoclib.com
 $downrank=3,site=codota.com
 $downrank=3,site=demo2s.com
 $downrank=3,site=java2s.com

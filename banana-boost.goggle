@@ -4,8 +4,6 @@
 ! author: Banana Boost
 ! avatar: #ffff00
 
-$boost=1,site=github.io
-$boost=1,site=micro.blog
 $boost=2,site=000fff.org
 $boost=2,site=0day.work
 $boost=2,site=0fps.net
@@ -3581,6 +3579,7 @@ $boost=3,site=ginzametrics.com
 $boost=3,site=gir.st
 $boost=3,site=gitbook.com
 $boost=3,site=github.com
+$boost=3,site=github.io
 $boost=3,site=githubengineering.com
 $boost=3,site=gizmodo.com.au
 $boost=3,site=gkbrk.com
@@ -7670,11 +7669,9 @@ $downrank=3,site=tabnine.com
 /ateam^$boost=3,site=planet.mozilla.org
 /b/abhinaba^$boost=3,site=blogs.msdn.com
 /backing-and-hacking^$boost=3,site=kickstarter.com
-/blog.$boost=1
 /blog.html^$boost=3,site=alexander-hansen.dev
 /blog.html^$boost=3,site=codenameone.com
 /blog.html^$boost=3,site=erlang-solutions.com
-/blog/$boost=1
 /blog/$boost=3,site=brave.com
 /blog/categories/engineering^$boost=3,site=segment.com
 /blog/category/engineering^$boost=3,site=elastic.co
@@ -7795,7 +7792,6 @@ $downrank=3,site=tabnine.com
 /en^$boost=3,site=bytes.babbel.com
 /en^$boost=3,site=computer.forensikblog.de
 /en^$boost=3,site=meiert.com
-/engineering.$boost=2
 /engineering^$boost=3,site=blog.heroku.com
 /engineering^$boost=3,site=blog.twitter.com
 /engineering^$boost=3,site=eharmony.com

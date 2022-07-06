@@ -8,4 +8,5 @@
 /forum.$boost=2
 /forums.$boost=2
 $boost=3,site=forum.nachi.org
+$boost=3,site=forums.jlconline.com
 $boost=3,site=meta.discourse.org

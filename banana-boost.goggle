@@ -7659,6 +7659,7 @@ $discard,site=xsprogram.com
 $discard,site=younggeeks.in
 $discard,site=zsharp.org
 $downrank=3,site=adoclib.com
+$downrank=3,site=bizjournals.com
 $downrank=3,site=codota.com
 $downrank=3,site=cooking.nytimes.com
 $downrank=3,site=demo2s.com

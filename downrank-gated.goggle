@@ -1,0 +1,7 @@
+! name: Punish Gates
+! description: Downranks results from sites with search results that require an account to actually read
+! public: true
+! author: Banana Boost
+! avatar: #ffff00
+
+$downrank=3,site=bizjournals.com

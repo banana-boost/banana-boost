@@ -1219,7 +1219,6 @@ $boost=2,site=medium.learningbyshipping.com
 $boost=2,site=meetup.hackernewsdc.org
 $boost=2,site=memcached.org
 $boost=2,site=mesosphere.com
-$boost=2,site=meta.discourse.org
 $boost=2,site=metmuseum.org
 $boost=2,site=metro.co.uk
 $boost=2,site=mg.co.za
@@ -3516,6 +3515,7 @@ $boost=3,site=forestry.io
 $boost=3,site=forrestbrazeal.com
 $boost=3,site=fortran90.org
 $boost=3,site=fortressofdoors.com
+$boost=3,site=forum.nachi.org
 $boost=3,site=forum.nim-lang.org
 $boost=3,site=forum.sublimetext.com
 $boost=3,site=forum.xda-developers.com
@@ -4232,6 +4232,7 @@ $boost=3,site=mercurial-scm.org
 $boost=3,site=merecivilian.com
 $boost=3,site=meshedinsights.com
 $boost=3,site=messynessychic.com
+$boost=3,site=meta.discourse.org
 $boost=3,site=metabase.com
 $boost=3,site=metacademy.org
 $boost=3,site=metachris.com

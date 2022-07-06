@@ -7,4 +7,5 @@
 /discourse.$boost=2
 /forum.$boost=2
 /forums.$boost=2
-$boost=2,site=meta.discourse.org
+$boost=3,site=forum.nachi.org
+$boost=3,site=meta.discourse.org
